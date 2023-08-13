@@ -36,3 +36,4 @@ Experiment with different Deep Learning architectures (e.g., CNN, LSTM) to compa
 Investigate additional feature engineering techniques to improve the model's ability to extract relevant information from the dataset.
 Evaluate the model's performance on external datasets to assess its generalization capability.
 
+Colab link: https://colab.research.google.com/drive/1SigVoxUYNlMkPnJabfcj2P6cUQRDLaMM
